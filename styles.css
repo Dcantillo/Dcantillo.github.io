@@ -2,10 +2,64 @@ body{
     background-image: url("https://images.pexels.com/photos/304664/pexels-photo-304664.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
     
 }
+.heading{
+    padding: 20px;
+    margin: 50px; 
+    background-color: lightblue; 
+    text-align: center; 
+}
+.box{
+    background-color: lightblue; 
+    width: 350px; 
+    height: 250px; 
+    display: flex; 
+    justify-content: space-between; 
 
+    padding: 10px; 
+    margin: 150px; 
+    border: 5px dotted black;
+ font-family: 'Ranchers', cursive;
+}
 
+.character {
+    background-color: silver; 
+    width: 350px; 
+    height: 250px; 
+    display: flex; 
+    justify-content: space-between; 
+	text-align: center; 
+    padding: 10px; 
+    margin: 150px; 
+    border: 5px dotted black;
+ font-family: 'Ranchers', cursive;
+    
+}
 
+.photo{
+    background-color: silver; 
+    width: 350px; 
+    height: 250px; 
+    display: flex; 
+    justify-content: space-between; 
+	text-align: center; 
+    padding: 10px; 
+    margin: 150px; 
+    border: 5px dotted black;
+ font-family: 'Ranchers', cursive;
+}
+.random{
+     background-color: lightblue; 
+    width: 350px; 
+    height: 250px; 
+    display: flex; 
+    justify-content: space-between; 
 
+    padding: 10px; 
+    margin: 150px; 
+    border: 5px dotted black;
+ font-family: 'Ranchers', cursive;
+    
+} 
 
 
 .flex{
@@ -16,8 +70,7 @@ body{
     justify-content: space-between; 
 
     padding: 10px; 
-    margin: 75px; 
+    margin: 150px; 
     border: 5px dotted black;
-    font-family: 'Ranchers', cursive;
+ font-family: 'Ranchers', cursive;
 }
-
